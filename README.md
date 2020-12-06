@@ -2,7 +2,7 @@
 
 # Descripción del proyecto
 
-![diamante](https://github.com/sonia-quintanar/diamonds-project/blob/main/images/diamante.png)
+![diamante](https://github.com/sonia-quintanar/diamonds-project/blob/main/images/diamante.jpeg)
 
 En este proyecto, vamos a predecir el precio del diamante, para ello vamos a entrenar con el archivo "train.csv" y finalmente vamos a predecir el precio con el archivo "test.csv".
 
